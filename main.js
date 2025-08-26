@@ -28,7 +28,7 @@ const campoSenha = document.querySelector('#campo-senha');
 const letrasMaiusculas = 'ABCDFGHIJKLMNOPQRSTUVWXYZ';
 const letrasMinusculas = 'abdefghijklmnopqrstuvwxyz';
 const numeroSenha = '0123456789';
-const simbolos = '!@#$&*?/-'
+const simbolos = '!@#$&*?/-';
 geraSenha();
 
 function geraSenha(){
