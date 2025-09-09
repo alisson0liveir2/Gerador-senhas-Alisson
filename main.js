@@ -40,3 +40,8 @@ function geraSenha() {
     }
     campoSenha.value = senha;
 }
+
+
+function classificaSenha() {
+ let entropia = tamanhoSenha*Math.log2.apply(tamanhoSenha):
+}
